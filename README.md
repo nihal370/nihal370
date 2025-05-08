@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development and Data Engineering <br>👯 I’m looking to collaborate on JAVA,DataBricks,Spark <br>🤝 I’m looking for help with connecting and Networking <br>🌱 I’m currently working for Rakuten India <br>💬 Ask me about Backend and Data Engineering<br>⚡
+🔭 I’m currently working on Backend Development and Data Engineering <br>👯 I’m looking to collaborate on JAVA,DataBricks,Spark <br>🤝 I’m looking for help with connecting and Networking <br>🌱 I’m currently working for Rakuten India <br>💬 Ask me about Backend and Data Engineering<br>
 
 
 ## 🌐 Socials:
